@@ -1,0 +1,4 @@
+baseURL = 'https://yaoyao.games'
+languageCode = 'zh-cn'
+title = 'Yaoyao Games'
+theme = 'stack'
