@@ -1,6 +1,6 @@
 baseURL = 'https://yaoyao.games'
 locale = 'zh-cn'
-title = '耀耀游戏'
+title = '垚垚游戏'
 theme = 'stack'
 defaultContentLanguage = 'zh'
 hasCJKLanguage = true
