@@ -1,0 +1,88 @@
+{{ define "body-class" }}portfolio-home{{ end }}
+
+{{ define "main" }}
+    {{ $projects := where .Site.RegularPages "Section" "projects" }}
+    {{ $games := where .Site.RegularPages "Section" "games" }}
+    {{ $blog := where .Site.RegularPages "Section" "post" }}
+
+    <section class="portfolio-hero">
+        <div class="portfolio-hero__content">
+            <p class="portfolio-kicker">耀耀游戏</p>
+            <h1>游戏开发 / 图形学 / 引擎学习</h1>
+            <p class="portfolio-hero__summary">
+                一个用于展示 Unity、Unreal Engine、C++、图形学实验和可玩游戏原型的模块化作品集网站。
+            </p>
+            <div class="portfolio-hero__actions">
+                <a class="portfolio-button portfolio-button--primary" href="{{ "projects/" | relURL }}">查看项目</a>
+                <a class="portfolio-button" href="{{ "games/" | relURL }}">试玩 Demo</a>
+            </div>
+        </div>
+        <div class="portfolio-hero__panel" aria-label="作品集方向">
+            <span>Unity</span>
+            <span>Unreal Engine</span>
+            <span>C++</span>
+            <span>图形学</span>
+            <span>WebGL Demo</span>
+        </div>
+    </section>
+
+    <section class="portfolio-section">
+        <div class="portfolio-section__header">
+            <p class="portfolio-kicker">精选项目</p>
+            <h2>项目展示</h2>
+            <a href="{{ "projects/" | relURL }}">全部项目</a>
+        </div>
+        <div class="portfolio-grid">
+            {{ range first 3 $projects }}
+                {{ partial "portfolio/card.html" . }}
+            {{ else }}
+                <p class="portfolio-empty">发布项目后会显示在这里。</p>
+            {{ end }}
+        </div>
+    </section>
+
+    <section class="portfolio-section">
+        <div class="portfolio-section__header">
+            <p class="portfolio-kicker">Unity / UE 作品</p>
+            <h2>可玩 Demo</h2>
+            <a href="{{ "games/" | relURL }}">全部游戏</a>
+        </div>
+        <div class="portfolio-grid portfolio-grid--compact">
+            {{ range first 2 $games }}
+                {{ partial "portfolio/card.html" . }}
+            {{ else }}
+                <p class="portfolio-empty">后续会在这里嵌入 Unity 或 Unreal 可玩 Demo。</p>
+            {{ end }}
+        </div>
+    </section>
+
+    <section class="portfolio-section">
+        <div class="portfolio-section__header">
+            <p class="portfolio-kicker">学习记录</p>
+            <h2>技术笔记</h2>
+            <a href="{{ "blog/" | relURL }}">全部笔记</a>
+        </div>
+        <div class="portfolio-list">
+            {{ range first 3 $blog }}
+                <a class="portfolio-note" href="{{ .RelPermalink }}">
+                    <span>{{ .Title }}</span>
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+                </a>
+            {{ else }}
+                <p class="portfolio-empty">发布技术笔记后会显示在这里。</p>
+            {{ end }}
+        </div>
+    </section>
+
+    <section class="portfolio-contact">
+        <div>
+            <p class="portfolio-kicker">联系</p>
+            <h2>持续构建项目、学习引擎，并记录开发过程。</h2>
+        </div>
+        <a class="portfolio-button portfolio-button--primary" href="{{ "contact/" | relURL }}">联系我</a>
+    </section>
+
+    {{ partialCached "footer/footer" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}{{ end }}

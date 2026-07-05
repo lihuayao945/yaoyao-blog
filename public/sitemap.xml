@@ -2,131 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yaoyao.games/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/page/about/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://yaoyao.games/categories/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/categories/documentation/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/tags/gallery/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/post/image-gallery/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yaoyao.games/page/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/tags/photoswipe/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/post/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yaoyao.games/tags/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/tags/css/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/unity/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/tags/html/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/projects/unity-%E5%8E%9F%E5%9E%8B%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/tags/markdown/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/webgl/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/markdown-syntax/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/games/webgl-demo-%E5%8D%A0%E4%BD%8D%E9%A1%B5/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/tags/themes/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/math-typesetting/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/about/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/tags/diagrams/</loc>
-    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/tags/mermaid/</loc>
-    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/blog/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/mermaid-diagrams/</loc>
-    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/contact/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/categories/syntax/</loc>
-    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/%E5%9B%BE%E5%BD%A2%E5%AD%A6/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/categories/themes/</loc>
-    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/blog/%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/page/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/%E7%8E%A9%E6%B3%95/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/tags/pagination/</loc>
-    <lastmod>2000-01-12T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-12/</loc>
-    <lastmod>2000-01-12T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/projects/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/tags/test/</loc>
-    <lastmod>2000-01-12T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/categories/testing/</loc>
-    <lastmod>2000-01-12T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-11/</loc>
-    <lastmod>2000-01-11T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/%E5%BC%95%E6%93%8E/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-10/</loc>
-    <lastmod>2000-01-10T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-09/</loc>
-    <lastmod>2000-01-09T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/games/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-08/</loc>
-    <lastmod>2000-01-08T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/%E5%8E%9F%E5%9E%8B/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-07/</loc>
-    <lastmod>2000-01-07T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/c&#43;&#43;/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-06/</loc>
-    <lastmod>2000-01-06T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/projects/c-%E6%B8%B2%E6%9F%93%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-05/</loc>
-    <lastmod>2000-01-05T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/tags/%E6%B8%B2%E6%9F%93/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-04/</loc>
-    <lastmod>2000-01-04T00:00:00+00:00</lastmod>
+    <loc>https://yaoyao.games/archives/</loc>
   </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-03/</loc>
-    <lastmod>2000-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-02/</loc>
-    <lastmod>2000-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/post/pagination-test-01/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yaoyao.games/_index.ja/</loc>
-  </url><url>
-    <loc>https://yaoyao.games/_index.zh-hant-tw/</loc>
-  </url><url>
-    <loc>https://yaoyao.games/_index.zh/</loc>
-  </url><url>
-    <loc>https://yaoyao.games/page/links/</loc>
-  </url><url>
-    <loc>https://yaoyao.games/page/search/</loc>
-  </url><url>
-    <loc>https://yaoyao.games/categories/documentation/documentation/</loc>
-  </url><url>
-    <loc>https://yaoyao.games/categories/documentation/documentation/</loc>
-  </url><url>
-    <loc>https://yaoyao.games/categories/documentation/documentation/</loc>
+    <loc>https://yaoyao.games/search/</loc>
   </url>
 </urlset>

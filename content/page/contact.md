@@ -1,36 +1,31 @@
 ---
-title: "联系我"
-date: 2026-01-01
+title: "联系"
+description: 项目交流或合作讨论的联系方式。
+slug: contact
+date: 2026-07-05
 draft: false
+menu:
+    main:
+        weight: -60
+        params:
+            icon: messages
 ---
 
-## 📬 联系方式
+## 联系方式
 
-如果你对我的项目或游戏开发方向感兴趣，可以通过以下方式联系我：
+如果你对我的游戏开发项目或技术学习记录感兴趣，可以通过下面的方式联系我。
 
----
+## 邮箱
 
-### ✉ 邮箱
 lihuayao945@example.com
 
----
+## GitHub
 
-### 🐙 GitHub
 https://github.com/lihuayao945
 
----
+## 技术方向
 
-### 🎮 技术方向
 - Unity 游戏开发
-- Unreal Engine（UE）
-- C++ / 游戏客户端开发
+- Unreal Engine 学习
+- C++ 玩法与客户端开发
 - 图形学与渲染基础
-
----
-
-### 🚀 当前状态
-正在学习游戏引擎开发与游戏客户端技术，持续构建项目作品集。
-
----
-
-> “持续学习，持续构建。”

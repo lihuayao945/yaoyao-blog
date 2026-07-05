@@ -1,0 +1,18 @@
+<article class="portfolio-card">
+    <a href="{{ .RelPermalink }}">
+        <p class="portfolio-card__section">
+            {{- if eq .Section "projects" -}}项目{{- else if eq .Section "games" -}}游戏{{- else if eq .Section "post" -}}技术笔记{{- else -}}{{ .Section | humanize }}{{- end -}}
+        </p>
+        <h3>{{ .Title }}</h3>
+        {{ with .Description }}
+            <p>{{ . }}</p>
+        {{ end }}
+        {{ with .Params.tags }}
+            <div class="portfolio-card__tags">
+                {{ range first 4 . }}
+                    <span>{{ . }}</span>
+                {{ end }}
+            </div>
+        {{ end }}
+    </a>
+</article>

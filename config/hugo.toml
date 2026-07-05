@@ -1,22 +1,20 @@
 baseURL                = "https://yaoyao.games"
-locale                 = "en-us"
-title                  = "Hugo Theme Stack"
-# Theme i18n support
-# See i18n folder for available languages
-defaultContentLanguage = "en"
-# Set hasCJKLanguage to true if DefaultContentLanguage is a CJK language
-# This will make .Summary and .WordCount behave correctly
-hasCJKLanguage         = false
+locale                 = "zh-cn"
+title                  = "耀耀游戏"
+defaultContentLanguage = "zh"
+hasCJKLanguage         = true
 
 [[module.imports]]
     path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
 [pagination]
-    pagerSize = 3
+    pagerSize = 6
 
 [permalinks]
-    post = "/p/:slug/"
+    post = "/blog/:slug/"
+    projects = "/projects/:slug/"
+    games = "/games/:slug/"
     page = "/:slug/"
 
 [services.disqus]
-    shortname = "hugo-theme-stack"
+    shortname = ""

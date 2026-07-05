@@ -1,4 +1,70 @@
 baseURL = 'https://yaoyao.games'
-languageCode = 'zh-cn'
-title = 'Yaoyao Games'
+locale = 'zh-cn'
+title = '耀耀游戏'
 theme = 'stack'
+defaultContentLanguage = 'zh'
+hasCJKLanguage = true
+
+[pagination]
+    pagerSize = 6
+
+[permalinks]
+    post = '/blog/:slug/'
+    projects = '/projects/:slug/'
+    games = '/games/:slug/'
+    page = '/:slug/'
+
+[params]
+    mainSections = ['projects', 'games', 'post']
+    rssFullContent = true
+    favicon = 'img/avatar.png'
+
+    [params.footer]
+        since = 2026
+
+    [params.sidebar]
+        emoji = '🎮'
+        subtitle = '游戏开发作品集 | Unity | Unreal Engine | C++ | 图形学'
+        avatar = 'img/avatar.png'
+
+    [params.article]
+        [params.article.license]
+            enabled = true
+            default = '本文采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。'
+
+    [params.widgets]
+        homepage = [
+            { type = 'search' },
+            { type = 'archives', params = { limit = 4 } },
+            { type = 'categories', params = { limit = 10 } },
+            { type = 'tag-cloud', params = { limit = 10 } },
+        ]
+        page = [{ type = 'toc' }]
+
+    [params.comments]
+        enabled = false
+        provider = 'disqus'
+
+    [params.cookies]
+        enabled = false
+
+        [params.cookies.categories]
+            analytics = true
+            functional = true
+
+[[menu.social]]
+    identifier = 'github'
+    name = 'GitHub'
+    url = 'https://github.com/lihuayao945'
+
+    [menu.social.params]
+        icon = 'brand-github'
+
+[languages]
+    [languages.zh]
+        label = '简体中文'
+        title = '耀耀游戏'
+        weight = 1
+
+        [languages.zh.params.sidebar]
+            subtitle = '游戏开发作品集 | Unity | Unreal Engine | C++ | 图形学'

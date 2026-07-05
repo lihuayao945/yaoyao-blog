@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>渲染 on 耀耀游戏</title>
+        <link>https://yaoyao.games/tags/%E6%B8%B2%E6%9F%93/</link>
+        <description>Recent content in 渲染 on 耀耀游戏</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yaoyao.games/tags/%E6%B8%B2%E6%9F%93/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>C&#43;&#43; 渲染学习记录</title>
+            <link>https://yaoyao.games/projects/c-%E6%B8%B2%E6%9F%93%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</link>
+            <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/projects/c-%E6%B8%B2%E6%9F%93%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</guid>
+            <description>&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;这是一个持续扩展的渲染学习项目，重点放在数学基础、光照、相机控制和引擎侧思维。&lt;/p&gt;&#xA;&lt;h2 id=&#34;技术栈&#34;&gt;技术栈&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;C++&lt;/li&gt;&#xA;&lt;li&gt;线性代数&lt;/li&gt;&#xA;&lt;li&gt;渲染管线基础&lt;/li&gt;&#xA;&lt;li&gt;Shader 学习记录&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;学习重点&#34;&gt;学习重点&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;坐标空间转换&lt;/li&gt;&#xA;&lt;li&gt;相机与投影&lt;/li&gt;&#xA;&lt;li&gt;基础光照模型&lt;/li&gt;&#xA;&lt;li&gt;图形输出调试&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

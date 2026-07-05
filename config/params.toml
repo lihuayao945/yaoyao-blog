@@ -1,4 +1,4 @@
-mainSections   = ["post"]
+mainSections   = ["projects", "games", "post"]
 rssFullContent = true
 favicon        = "img/avatar.png"
 
@@ -7,30 +7,27 @@ favicon        = "img/avatar.png"
 
 [sidebar]
     emoji    = "🎮"
-    subtitle = "游戏开发技术博客 | Unity | Unreal Engine | 图形学"
+    subtitle = "游戏开发作品集 | Unity | Unreal Engine | C++ | 图形学"
     avatar   = "img/avatar.png"
 
 [article]
     [article.license]
         enabled = true
-        default = "Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+        default = "本文采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。"
 
 [widgets]
     homepage = [
         { type = "search" },
-        { type = "archives", params = { limit = 5 } },
+        { type = "archives", params = { limit = 4 } },
         { type = "categories", params = { limit = 10 } },
         { type = "tag-cloud", params = { limit = 10 } },
     ]
     page     = [{ type = "toc" }]
 
 [comments]
-    # See complete configuration in config/_default/params.toml
     enabled  = false
     provider = "disqus"
 
-# GDPR Cookie Consent Configuration
-# When enabled, analytics and functional cookies require user consent
 [cookies]
     enabled = false
 

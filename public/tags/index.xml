@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Yaoyao Games</title>
+        <title>Tags on 耀耀游戏</title>
         <link>https://yaoyao.games/tags/</link>
-        <description>Recent content in Tags on Yaoyao Games</description>
+        <description>Recent content in Tags on 耀耀游戏</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yaoyao.games/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Gallery</title>
-            <link>https://yaoyao.games/tags/gallery/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/gallery/</guid>
+        <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yaoyao.games/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Unity</title>
+            <link>https://yaoyao.games/tags/unity/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/unity/</guid>
             <description></description>
         </item><item>
-            <title>Photoswipe</title>
-            <link>https://yaoyao.games/tags/photoswipe/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/photoswipe/</guid>
+            <title>WebGL</title>
+            <link>https://yaoyao.games/tags/webgl/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/webgl/</guid>
             <description></description>
         </item><item>
-            <title>Css</title>
-            <link>https://yaoyao.games/tags/css/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/css/</guid>
+            <title>工具</title>
+            <link>https://yaoyao.games/tags/%E5%B7%A5%E5%85%B7/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/%E5%B7%A5%E5%85%B7/</guid>
             <description></description>
         </item><item>
-            <title>Html</title>
-            <link>https://yaoyao.games/tags/html/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/html/</guid>
+            <title>图形学</title>
+            <link>https://yaoyao.games/tags/%E5%9B%BE%E5%BD%A2%E5%AD%A6/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/%E5%9B%BE%E5%BD%A2%E5%AD%A6/</guid>
             <description></description>
         </item><item>
-            <title>Markdown</title>
-            <link>https://yaoyao.games/tags/markdown/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/markdown/</guid>
+            <title>玩法</title>
+            <link>https://yaoyao.games/tags/%E7%8E%A9%E6%B3%95/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/%E7%8E%A9%E6%B3%95/</guid>
             <description></description>
         </item><item>
-            <title>Themes</title>
-            <link>https://yaoyao.games/tags/themes/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/themes/</guid>
+            <title>学习</title>
+            <link>https://yaoyao.games/tags/%E5%AD%A6%E4%B9%A0/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/%E5%AD%A6%E4%B9%A0/</guid>
             <description></description>
         </item><item>
-            <title>Diagrams</title>
-            <link>https://yaoyao.games/tags/diagrams/</link>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/diagrams/</guid>
+            <title>引擎</title>
+            <link>https://yaoyao.games/tags/%E5%BC%95%E6%93%8E/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/%E5%BC%95%E6%93%8E/</guid>
             <description></description>
         </item><item>
-            <title>Mermaid</title>
-            <link>https://yaoyao.games/tags/mermaid/</link>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/mermaid/</guid>
+            <title>原型</title>
+            <link>https://yaoyao.games/tags/%E5%8E%9F%E5%9E%8B/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/%E5%8E%9F%E5%9E%8B/</guid>
             <description></description>
         </item><item>
-            <title>Pagination</title>
-            <link>https://yaoyao.games/tags/pagination/</link>
-            <pubDate>Wed, 12 Jan 2000 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/pagination/</guid>
+            <title>C&#43;&#43;</title>
+            <link>https://yaoyao.games/tags/c&#43;&#43;/</link>
+            <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/c&#43;&#43;/</guid>
             <description></description>
         </item><item>
-            <title>Test</title>
-            <link>https://yaoyao.games/tags/test/</link>
-            <pubDate>Wed, 12 Jan 2000 00:00:00 +0000</pubDate>
-            <guid>https://yaoyao.games/tags/test/</guid>
+            <title>渲染</title>
+            <link>https://yaoyao.games/tags/%E6%B8%B2%E6%9F%93/</link>
+            <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/tags/%E6%B8%B2%E6%9F%93/</guid>
             <description></description>
         </item></channel>
 </rss>

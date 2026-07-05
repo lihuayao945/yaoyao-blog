@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>技术笔记 on 耀耀游戏</title>
+        <link>https://yaoyao.games/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/</link>
+        <description>Recent content in 技术笔记 on 耀耀游戏</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yaoyao.games/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>图形学学习路线</title>
+            <link>https://yaoyao.games/blog/%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/blog/%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</guid>
+            <description>&lt;h2 id=&#34;当前重点&#34;&gt;当前重点&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;这篇笔记用于记录图形学基础学习路线，从数学基础到渲染管线，并逐步关联小型实验项目。&lt;/p&gt;&#xA;&lt;h2 id=&#34;学习主题&#34;&gt;学习主题&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;向量、矩阵与变换&lt;/li&gt;&#xA;&lt;li&gt;坐标空间&lt;/li&gt;&#xA;&lt;li&gt;相机与投影&lt;/li&gt;&#xA;&lt;li&gt;基础光照&lt;/li&gt;&#xA;&lt;li&gt;Shader 阅读与调试&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

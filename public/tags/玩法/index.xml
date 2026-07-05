@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>玩法 on 耀耀游戏</title>
+        <link>https://yaoyao.games/tags/%E7%8E%A9%E6%B3%95/</link>
+        <description>Recent content in 玩法 on 耀耀游戏</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yaoyao.games/tags/%E7%8E%A9%E6%B3%95/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Unity 原型框架</title>
+            <link>https://yaoyao.games/projects/unity-%E5%8E%9F%E5%9E%8B%E6%A1%86%E6%9E%B6/</link>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>https://yaoyao.games/projects/unity-%E5%8E%9F%E5%9E%8B%E6%A1%86%E6%9E%B6/</guid>
+            <description>&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;这是一个面向玩法验证的 Unity 项目模板，用于快速测试角色控制、输入处理、场景流程和可复用玩法系统。&lt;/p&gt;&#xA;&lt;h2 id=&#34;技术栈&#34;&gt;技术栈&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;Unity&lt;/li&gt;&#xA;&lt;li&gt;C#&lt;/li&gt;&#xA;&lt;li&gt;ScriptableObject 架构&lt;/li&gt;&#xA;&lt;li&gt;面向 GitHub Pages 的 WebGL 导出规划&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;计划功能&#34;&gt;计划功能&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;模块化角色控制器&lt;/li&gt;&#xA;&lt;li&gt;场景启动流程&lt;/li&gt;&#xA;&lt;li&gt;用于调参的调试 UI&lt;/li&gt;&#xA;&lt;li&gt;可嵌入网页的 WebGL 构建页面&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;链接&#34;&gt;链接&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;项目发布后会补充 GitHub 和 Demo 链接。&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

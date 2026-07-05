@@ -1,11 +1,7 @@
 ---
-title: "Archives"
-date: 2019-05-28
-layout: "archives"
-slug: "archives"
-menu:
-    main:
-        weight: -70
-        params: 
-            icon: archives
+title: 归档
+description: 按时间查看已发布的项目、游戏和技术笔记。
+slug: archives
+layout: archives
 ---
+
